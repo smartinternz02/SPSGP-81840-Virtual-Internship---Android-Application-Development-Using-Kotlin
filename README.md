@@ -8,8 +8,8 @@ APK LINK :-  NearPlaces.apk
 DEMO VIDEO :- https://drive.google.com/drive/folders/19tUZxnlnvUCVVGBIwX3-n012oHmJDEXS?usp=sharing
 
 
-2.PORJECT :-2 :: Build A Grocery Android App 
-APK LINK :-  TodoList.apk
+2.PORJECT :-2 :: Build A Grocery Android App                                             
+APK LINK :-  TodoList.apk                                                        
 DEMO LINK :- https://drive.google.com/drive/folders/19tUZxnlnvUCVVGBIwX3-n012oHmJDEXS?usp=sharing
 
 
