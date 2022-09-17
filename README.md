@@ -2,5 +2,17 @@
 Virtual Internship - Android Application Development Using Kotlin
 
 
-1.app_debug.apk : -  this the first project.                                                                                           
-2.Todolist.apk : - this the second project.
+                                                            
+1.PROJECT : - 1  :: Create A Project In Cloud Console                                         
+APK LINK :-  NearPlaces.apk                                                               
+DEMO VIDEO :- https://drive.google.com/drive/folders/19tUZxnlnvUCVVGBIwX3-n012oHmJDEXS?usp=sharing
+
+
+2.PORJECT :-2 :: Build A Grocery Android App 
+APK LINK :-  TodoList.apk
+DEMO LINK :- https://drive.google.com/drive/folders/19tUZxnlnvUCVVGBIwX3-n012oHmJDEXS?usp=sharing
+
+
+
+
+
